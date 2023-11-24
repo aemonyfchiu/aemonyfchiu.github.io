@@ -3,54 +3,62 @@
 <head>
     <title>Aemon YF CHIU</title>
     <style>
-        body { font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; margin: 0; padding: 0; }
+        body { 
+            font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; 
+            margin: 0; 
+            padding: 0; 
+            display: flex;
+        }
         .chinese-text { font-family: PMingLiU; }
-        .header { text-align: center; padding: 20px; }
-        .navigation { text-align: center; padding: 10px; background-color: #f2f2f2; }
-        .navigation a { margin: 0 10px; text-decoration: none; color: black; }
-        .section { padding: 20px; }
-        .photo { text-align: center; margin: 20px; }
-        img { max-width: 200px; border-radius: 50%; }
-        h1, h2 { color: #005691; }
-        footer { text-align: center; padding: 20px; background-color: #f2f2f2; }
+        .left-column { 
+            width: 30%; 
+            position: fixed; 
+            overflow: auto; 
+            height: 100%; 
+            padding: 20px; 
+            background-color: #f2f2f2; 
+        }
+        .right-column { 
+            margin-left: 30%; 
+            padding: 20px; 
+        }
+        .navigation { 
+            padding: 10px; 
+            background-color: #f2f2f2; 
+        }
+        .navigation a { 
+            margin: 0 10px; 
+            text-decoration: none; 
+            color: black; 
+        }
+        .photo { 
+            text-align: center; 
+            margin: 20px; 
+        }
+        img { 
+            max-width: 200px; 
+            border-radius: 50%; 
+        }
+        h1, h2 { 
+            color: #005691; 
+        }
+        footer { 
+            text-align: center; 
+            padding: 20px; 
+            background-color: #f2f2f2; 
+        }
     </style>
 </head>
 <body>
-    <div class="header">
+    <div class="left-column">
+        <div class="photo">
+            <img src="img/photo.jpg" alt="Aemon YF Chiu">
+        </div>
         <h1>Yifei ZHAO <span class="chinese-text">趙逸飛</span>, BEng (PolyU)</h1>
-        <h1>aka Aemon Yat Fei CHIU</h1>
+        <h2>aka Aemon Yat Fei CHIU</h2>
         <p>PhD Student in Electronic Engineering</p>
         <p>Department of Electronic Engineering</p>
         <p>The Chinese University of Hong Kong</p>
-    </div>
-
-    <div class="navigation">
-        <a href="#about">About Me</a> | 
-        <a href="#research">Research Interest</a> | 
-        <a href="#publications">Publications</a> | 
-        <a href="#contact">Contact</a>
-    </div>
-
-    <div class="photo">
-        <img src="img/photo.jpg" alt="Aemon YF Chiu">
-    </div>
-
-    <div class="section" id="about">
-        <h2>About Me</h2>
-        <p>Yifei ZHAO, aka Aemon Yat Fei CHIU, is a PhD student in the Department of Electronic Engineering at The Chinese University of Hong Kong (CUHK) under the supervision of <a href="https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-tan-lee">Professor Tan LEE</a>. Before that, he obtained his Bachelor of Engineering in Electronic and Information Engineering with First Class Honours and a Minor in Applied Mathematics at The Hong Kong Polytechnic University (PolyU). His undergraduate Honours Project during his final year at PolyU was supervised by <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/emeritus_prof-siu-wc/">Emeritus Professor Wan-Chi SIU</a>. He was then also a Project Assistant at the Caritas Institute of Higher Education (CIHE), assisting deep learning-related research in the Artificial Intelligence Lab in the School of Computing and Information Sciences. He joined an exchange programme at the University of Illinois at Urbana-Champaign in Academic Year 2021/22 Semester 2.</p>
-    </div>
-
-    <div class="section" id="research">
-        <h2>Research Interest</h2>
-        <p>Deep Learning, Speech Processing, Computer Vision.</p>
-    </div>
-
-    <div class="section" id="publications">
-        <h2>Publications</h2>
-        <p>K. Zhao, L. Yu, S. Zhou, J. Li, X. Luo, <strong>Y. F. A. Chiu</strong>, and Y. Liu, “A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification.” Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, Dec. 2022.</p>
-    </div>
-
-    <div class="section" id="contact">
         <h2>Contact Information</h2>
         <p>Phone: <a href="tel:+85253185381">+852 5318 5381</a> | Email: <a href="mailto:aemon.yf.chiu@link.cuhk.edu.hk">aemon.yf.chiu@link.cuhk.edu.hk</a></p>
         <p><a href="https://github.com/aemonyfchiu">GitHub</a> | <a href="https://www.linkedin.com/in/aemonyfchiu/">LinkedIn</a></p>
@@ -58,9 +66,24 @@
         The Chinese University of Hong Kong,<br>
         Sha Tin, New Territories, Hong Kong</p>
     </div>
-
-    <footer>
-        © 2023 Aemon YF Chiu. Powered by HTML & CSS.
-    </footer>
+    <div class="right-column">
+        <div class="navigation">
+            <a href="#about">About Me</a> | 
+            <a href="#research">Research Interest</a> | 
+            <a href="#publications">Publications</a>
+        </div>
+        <div class="section" id="about">
+            <!-- About Me content goes here -->
+        </div>
+        <div class="section" id="research">
+            <!-- Research Interest content goes here -->
+        </div>
+        <div class="section" id="publications">
+            <!-- Publications content goes here -->
+        </div>
+        <footer>
+            © 2023 Aemon YF Chiu. Powered by HTML & CSS.
+        </footer>
+    </div>
 </body>
 </html>
