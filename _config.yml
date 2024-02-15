@@ -6,33 +6,33 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-HK"
+title                    : "Aemon's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yifei Zhao"
+description              : &description "PhD Student in EE at CUHK"
+url                      : https://aemonyfchiu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aemonyfchiu/aemonyfchiu.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yifei Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         :
-  email            :  
+  bio              : "PhD Student in EE at CUHK"
+  pronouns         : "he/is"
+  location         : "Hong Kong"
+  orcid            : # "http://orcid.org/yourorcidurl"
+  employer         : "The Chinese University of Hong Kong"
+  email            : "aemon.yf.chiu@link.cuhk.edu.hk"
   uri              :
 
   # Manuscript repositories
   arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
   bitbucket        :
@@ -41,22 +41,22 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "aemonyfchiu"
   goodreads        :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "aemonyatfeichiu"
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : # "mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
