@@ -17,7 +17,7 @@ repository               : "aemonyfchiu/aemonyfchiu.github.io"
 
 # Site Author
 author:
-  name             : "Yifei Zhao<br>(aka Aemon Yat fei Chiu)"
+  name             : "Yifei Zhao<br>(Aemon Yat fei Chiu)"
   avatar           : "profile.png"
   bio              : "PhD Student at CUHK"
   pronouns         : "he/his"
@@ -47,7 +47,7 @@ author:
   keybase          :
   instagram        : "aemonyatfeichiu"
   lastfm           :
-  linkedin         :
+  linkedin         : "aemonyfchiu"
   kaggle           : # "kaggleusername"
   mastodon         : # "mastodonhandle"
   medium           : # "add medium profile url here"
