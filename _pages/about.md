@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yifei ZHAO, aka Aemon Yat Fei CHIU, is a PhD student in the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html). He is under the supervision of [Professor Tan LEE](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-tan-lee) of the [Digital Signal Processing & Speech Technology Laboratory](http://dsp.ee.cuhk.edu.hk/). Before that, he obtained his Bachelor of Engineering in [Electronic and Information Engineering](https://www.polyu.edu.hk/eee/) with First Class Honours and a Minor in [Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). His undergraduate Honours Project during his final year at PolyU was supervised by [Emeritus Professor Wan-Chi SIU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/emeritus_prof-siu-wc/). He was then also a Project Assistant at the [Saint Francis University](https://www.cihe.edu.hk/en/home/index.html) (previously Caritas Institute of Higher Education), assisting deep learning-related research in the Artificial Intelligence Lab in the [School of Computing and Information Sciences](https://cis.cihe.edu.hk/). He joined an exchange programme at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in Academic Year 2021/22 Semester 2.
 
 A data-driven personal website
 ======
