@@ -9,7 +9,7 @@
 locale                   : "en-HK"
 title                    : "Aemon's Homepage"
 title_separator          : "-"
-name                     : &name "Yifei Zhao"
+name                     : &name "Aemon Yat Fei Chiu"
 description              : &description "PhD Student in EE at CUHK"
 url                      : https://aemonyfchiu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -17,7 +17,7 @@ repository               : "aemonyfchiu/aemonyfchiu.github.io"
 
 # Site Author
 author:
-  name             : "Yifei Zhao"
+  name             : "Yifei Zhao<br>(aka Aemon Yat fei Chiu)"
   avatar           : "profile.png"
   bio              : "PhD Student at CUHK"
   pronouns         : "he/his"
