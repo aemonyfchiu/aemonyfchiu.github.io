@@ -19,4 +19,5 @@ Computer Vision
 
 Publications
 ======
-K. Zhao, L. Yu, S. Zhou, J. Li, X. Luo, **Y. F. A. Chiu**, and Y. Liu. “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/).” *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
+J. Li*, **A. Y. F. Chiu***, and T. Lee, “Anonymous Submission to *Interspeech 2024*,” under review. (*denotes equal contribution)
+K. Zhao, L. Yu, S. Zhou, J. Li, X. Luo, **Y. F. A. Chiu**, and Y. Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
