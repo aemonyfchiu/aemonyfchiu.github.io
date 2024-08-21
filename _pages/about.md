@@ -21,4 +21,4 @@ Publications
 ======
 J. Li*, **A. Y. F. Chiu***, and T. Lee, “An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems,” accepted for presentation at *the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*. (*equal contribution)
 
-K. Zhao, L. Yu, S. Zhou, J. Li, X. Luo, **Y. F. A. Chiu**, and Y. Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
+K. Zhao, L. Yu, S. Zhou, J. Li, X. Luo, **Y. F. A. Chiu**, and Y. Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
