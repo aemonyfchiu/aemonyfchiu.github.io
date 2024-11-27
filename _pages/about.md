@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Aemon"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
