@@ -13,7 +13,7 @@ Research Interests
 ======
 Cantonese<br>
 Deep Learning<br>
-Speech Processing<br>
+Speech and Language Processing<br>
 Natural Language Processing<br>
 Computer Vision
 
