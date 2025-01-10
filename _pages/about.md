@@ -19,6 +19,8 @@ Computer Vision
 
 Publications
 ======
+**Aemon Yat Fei Chiu**, Paco Kei Ching Fung, Roger Tsz Yeung Li, Jingyu Li, and Tan Lee, “[Probing Speaker-specific Features in Speaker Representations](https://arxiv.org/abs/2501.05310),” *arxiv: 2501/05310*, 2025.
+
 Jingyu Li\*, **Aemon Yat Fei Chiu**\*, and Tan Lee, “[An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems](https://ieeexplore.ieee.org/document/10800573/),” in *Proceedings of the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*, pp. 388-392, Beijing, China, Nov. 2024. (*equal contribution)
 
 Kai Zhao, Le Yu, Shiyao Zhou, Jing Li, Xiapu Luo, **Yat Fei Aemon Chiu**, and Yutong Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
