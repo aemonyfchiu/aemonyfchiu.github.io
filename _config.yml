@@ -31,13 +31,13 @@ author:
   email            : "aemon.yf.chiu@link.cuhk.edu.hk"
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Aemon+Yat+Fei+Chiu&abstracts=show&size=200&order=-announced_date_first" # Update with the correct link to your profile
+  arxiv            : # "https://arxiv.org/search/?searchtype=author&query=Aemon+Yat+Fei+Chiu&abstracts=show&size=200&order=-announced_date_first" # Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=N5xBoykAAAAJ&hl=en"   
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # "https://www.semanticscholar.org/author/Aemon-Yat-Fei-Chiu/2331323086"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Aemon-Yat-Fei-Chiu"
+  researchgate     : # "https://www.researchgate.net/profile/Aemon-Yat-Fei-Chiu"
   scopus           : # URL
 
   # Repositories and software development
