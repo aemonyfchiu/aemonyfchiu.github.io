@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-HK"
-title                    : "Homepage"
+title                    : "Aemon @ CUHK"
 title_separator          : "-"
 name                     : &name "Aemon Yat Fei Chiu"
 description              : &description "PhD Student in EE at CUHK"
