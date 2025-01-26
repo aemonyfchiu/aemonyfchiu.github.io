@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aemon Yat Fei Chiu 趙逸飛"
-  pronouns         : "he/his/him"  
+  pronouns         : # "he/his/him"  
   bio              : "PhD Student in Electronic Engineering<br>The Chinese University of Hong Kong"
   location         : "Sha Tin, Hong Kong"
   employer         : # "CUHK"
   uri              : # URL
-  email            : "aemon.yf.chiu@link.cuhk.edu.hk"
+  email            : # "aemon.yf.chiu@link.cuhk.edu.hk"
 
   # Academic websites
   arxiv            : # "https://arxiv.org/search/?searchtype=author&query=Aemon+Yat+Fei+Chiu&abstracts=show&size=200&order=-announced_date_first" # Update with the correct link to your profile
