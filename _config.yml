@@ -10,7 +10,7 @@
 locale                   : "en-HK"
 title                    : "Aemon @ CUHK"
 title_separator          : "-"
-name                     : &name "Aemon Yat Fei Chiu"
+name                     : &name "Aemon Yat Fei Chiu 趙逸飛"
 description              : &description "PhD Student in EE at CUHK"
 url                      : https://aemonyfchiu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
