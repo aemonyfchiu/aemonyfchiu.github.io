@@ -27,7 +27,7 @@ author_profile: true
     <th>Phone</th>
     <td><a href="tel:+85253185381">+852-5318-5381</a></td>
   </tr>
-</table>
+
   <tr>
     <th>Address</th>
     <td>Desk 113, Room 322-328, Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
@@ -36,3 +36,4 @@ author_profile: true
     <th>地址</th>
     <td>香港新界沙田香港中文大學何善衡工程學大樓322-328室113枱</td>
   </tr>
+</table>
