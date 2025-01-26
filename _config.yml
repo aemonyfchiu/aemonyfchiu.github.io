@@ -26,8 +26,8 @@ author:
   pronouns         : "he/his/him"  
   bio              : "PhD Student in EE CUHK"
   location         : "Hong Kong"
-  employer         : "The Chinese University<br>&ensp;&ensp;&ensp;&ensp;&ensp;of Hong Kong"
-  uri              : "aemonyfchiu/aemonyfchiu.github.io"
+  employer         : "The Chinese University<br>&ensp;&ensp;&ensp;of Hong Kong"
+  uri              : # URL
   email            : "aemon.yf.chiu@link.cuhk.edu.hk"
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : "https://www.semanticscholar.org/author/Aemon-Yat-Fei-Chiu/2331323086"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Aemon-Yat-Fei-Chiu"
   scopus           : # URL
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : "aemonyfchiu"
   flickr           : # Username
   foursquare       : # Username
