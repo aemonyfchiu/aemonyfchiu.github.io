@@ -3,7 +3,6 @@ permalink: /contact/
 title: "Contact Information"
 author_profile: true
 ---
-|:--------|:-------:|--------:|
-|Address|Desk 113, Room 322-328, Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong|
+|Address|Desk 113, Room 322-328, Ho Sin Hang Engineering Building, The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong|
 |Email|[aemon.yf.chiu@link.cuhk.edu.hk](mailto:aemon.yf.chiu@link.cuhk.edu.hk)|
 |Phone|[+852-5318-5381](tel:+85253185381)|
