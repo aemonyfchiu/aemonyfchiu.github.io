@@ -1,9 +1,8 @@
 ---
 permalink: /contact
-title: "Contact Information"
+title: "Contact"
 author_profile: true
 redirect_from: 
-  - /contact/
   - /contact.html
 ---
 
@@ -15,8 +14,8 @@ Sha Tin, New Territories, Hong Kong
 
 Email
 ======
-aemon.yf.chiu@link.cuhk.edu.hk
+[aemon.yf.chiu@link.cuhk.edu.hk](mailto:aemon.yf.chiu@link.cuhk.edu.hk)
 
 Phone
 ======
-+852-5318-5381
+[+852-5318-5381](tel:1234567890)
