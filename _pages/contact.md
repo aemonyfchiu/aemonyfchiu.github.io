@@ -1,13 +1,12 @@
 ---
 permalink: /contact
-title: "Contact"
 author_profile: true
 ---
 
 Address
 ======
-Room 322-328, Ho Sin Hang Engineering Building
-The Chinese University of Hong Kong
+Room 322-328, Ho Sin Hang Engineering Building<br>
+The Chinese University of Hong Kong<br>
 Sha Tin, New Territories, Hong Kong
 
 Email
