@@ -30,7 +30,7 @@ author_profile: true
 
   <tr>
     <th>Address</th>
-    <td>Desk 113, Room 322-328, Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
+    <td>Desk 113, Room 322-328, 3/F<br>Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
   </tr>
   <tr>
     <th>地址</th>
