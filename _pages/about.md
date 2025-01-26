@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aemon @ CUHK"
+title: "About Aemon"
 author_profile: true
 redirect_from: 
   - /about/
