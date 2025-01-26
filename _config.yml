@@ -26,7 +26,7 @@ author:
   pronouns         : "he/his/him"  
   bio              : "PhD Student in Electronic Engineering<br>The Chinese University of Hong Kong"
   location         : "Sha Tin, Hong Kong"
-  employer         : "CUHK"
+  employer         : # "CUHK"
   uri              : # URL
   email            : "aemon.yf.chiu@link.cuhk.edu.hk"
 
@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "realaemonchiu"
+  instagram        : # "realaemonchiu"
   lastfm           : # Username
   linkedin         : "aemonyfchiu"
   mastodon         : # URL
