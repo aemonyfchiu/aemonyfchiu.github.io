@@ -11,7 +11,7 @@ redirect_from:
 <br>
 Résumé in English
 <iframe src="/files/CHIU_Yat_Fei_Aemon_Resume.pdf" width="85%" height="550px"></iframe>
-[Download English Résumé](/files/CHIU_Yat_Fei_Aemon_Resume_CV.pdf)
+[Download English Résumé](/files/CHIU_Yat_Fei_Aemon_Resume_updated_20250918.pdf)
 <br>
 <br>
 <br>
