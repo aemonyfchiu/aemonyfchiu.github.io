@@ -21,9 +21,13 @@ Computer Vision 電腦視覺
 
 Publications 研究成果
 ======
-**Aemon Yat Fei Chiu**, Kei Ching Fung, Roger Tsz Yeung Li, Jingyu Li, and Tan Lee, “[A Large-Scale Probing Analysis of Speaker-Specific Attributes in Self-Supervised Speech Representations](https://arxiv.org/abs/2501.05310),” submitted to the *2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)*, under review 2025.
+**Aemon Yat Fei Chiu**, Kei Ching Fung, Roger Tsz Yeung Li, Jingyu Li, and Tan Lee, “[A Large-Scale Probing Analysis of Speaker-Specific Attributes in Self-Supervised Speech Representations](https://arxiv.org/abs/2501.05310),” to submit to *ISCA Interspeech 2026*, under review, 2026.
 
-**Aemon Yat Fei Chiu**, Jingyu Li, Yusheng Tian, Guangyan Zhang, and Tan Lee, “[CUHK-EE Systems for the vTAD Challenge at NCMMSC 2025](https://arxiv.org/abs/2507.23266),” in *Proceedings of the 20th National Conference on Human-Computer Speech Communication (NCMMSC 2025)*, Zhenjiang, China, Oct. 2025.
+**Aemon Yat Fei Chiu**, Yujia Xiao, Qiuqiang Kong, and Tan Lee, “Revisiting the Use of Acoustic Features for Voice Timbre Analysis,” to submit to *ISCA Interspeech 2026*, under review, 2026.
+
+Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, and Tan Lee, “[PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://arxiv.org/abs/2510.00485),” submitted to the *43th International Conference on Machine Learning (ICML 2026)*, under review, 2026.
+
+**Aemon Yat Fei Chiu**, Jingyu Li, Yusheng Tian, Guangyan Zhang, and Tan Lee, “[CUHK-EE Systems for the vTAD Challenge at NCMMSC 2025](https://arxiv.org/abs/2507.23266),” in *Man-Machine Speech Communication*. National Conference on Man-Machine Speech Communication (NCMMSC 2025). Communications in Computer and Information Science, vol. 2662, pp. 290-298, Springer Nature, Singapore, 2026.
 
 Jingyu Li\*, **Aemon Yat Fei Chiu**\*, and Tan Lee, “[An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems](https://ieeexplore.ieee.org/document/10800573/),” in *Proceedings of the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*, pp. 388-392, Beijing, China, Nov. 2024. (*equal contribution)
 
