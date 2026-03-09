@@ -21,9 +21,9 @@ Computer Vision 電腦視覺
 
 Publications 研究成果
 ======
-**Aemon Yat Fei Chiu**, Kei Ching Fung, Roger Tsz Yeung Li, Jingyu Li, and Tan Lee, “[A Large-Scale Probing Analysis of Speaker-Specific Attributes in Self-Supervised Speech Representations](https://arxiv.org/abs/2501.05310),” to submit to *ISCA Interspeech 2026*, under review, 2026.
+**Aemon Yat Fei Chiu**, Kei Ching Fung, Roger Tsz Yeung Li, Jingyu Li, and Tan Lee, “[A Large-Scale Probing Analysis of Speaker-Specific Attributes in Self-Supervised Speech Representations](https://arxiv.org/abs/2501.05310),” submitted to *ISCA Interspeech 2026*, under review, 2026.
 
-**Aemon Yat Fei Chiu**, Yujia Xiao, Qiuqiang Kong, and Tan Lee, “Revisiting the Use of Acoustic Features for Voice Timbre Analysis,” to submit to *ISCA Interspeech 2026*, under review, 2026.
+**Aemon Yat Fei Chiu**, Yujia Xiao, Qiuqiang Kong, and Tan Lee, “Voice Timbre Attribute Detection with Compact and Interpretable Training-Free Acoustic Parameters,” submitted to *ISCA Interspeech 2026*, under review, 2026.
 
 Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, and Tan Lee, “[PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://arxiv.org/abs/2510.00485),” submitted to the *43th International Conference on Machine Learning (ICML 2026)*, under review, 2026.
 
