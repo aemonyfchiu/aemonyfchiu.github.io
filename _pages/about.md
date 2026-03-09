@@ -13,11 +13,9 @@ redirect_from:
 
 Research Interests 研究興趣
 ======
-Cantonese 廣東話<br>
-Deep Learning 深度學習<br>
 Speech Processing 語音處理<br>
+Deep Learning 深度學習<br>
 Natural Language Processing 自然語言處理<br>
-Computer Vision 電腦視覺
 
 Publications 研究成果
 ======
