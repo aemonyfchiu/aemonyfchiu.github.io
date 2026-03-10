@@ -56,7 +56,7 @@ Contact Information 聯絡方式
 
   <tr>
     <th>Address</th>
-    <td>Room 329, 3/F<br>Digital Signal Processing and Speech Technology Laboratory<br>Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
+    <td>Digital Signal Processing and Speech Technology Laboratory<br>Room 329, 3/F, Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
   </tr>
   <tr>
     <th>地址</th>
