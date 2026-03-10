@@ -6,11 +6,11 @@
 
 main:
 
-  - title: "Résumé"
-    url: /resume/
+  # - title: "Résumé"
+  #   url: /resume/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
   # - title: "Publications"
   #   url: /publications/
