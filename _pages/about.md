@@ -2,9 +2,6 @@
 permalink: /
 title: "Aemon's Homepage"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **Aemon Yat Fei Chiu** is a PhD Candidate in the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/) at [**The Chinese University of Hong Kong**](https://www.cuhk.edu.hk/english/index.html) (**CUHK**) under the supervision of [**Professor Tan Lee**](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-tan-lee) and [**Professor Qiuqiang Kong**](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-kong-qiuqiang). Before that, he obtained his [**Bachelor of Engineering in Electronic and Information Engineering**](https://www.polyu.edu.hk/eee/) with **First Class Honours** and a [**Minor in Applied Mathematics**](https://www.polyu.edu.hk/ama/) at [**The Hong Kong Polytechnic University**](https://www.polyu.edu.hk/) (**PolyU**). His Honours Project during his final year at PolyU was supervised by [**Emeritus Professor Wan-Chi Siu**](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/emeritus_prof-siu-wc/). He was then also a Project Assistant at [Saint Francis University](https://www.sfu.edu.hk/en/home/index.html) (formerly Caritas Institute of Higher Education), assisting in deep learning-related research in the [School of Computing and Information Sciences](https://cis.sfu.edu.hk/). Prior to that, he worked as a student assistant under the supervision of [Professor Xiapu Luo](https://www.polyu.edu.hk/comp/people/academic-staff/prof-luo-xiapu-daniel/) and [Professor Haibo Hu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-hu-haibo/) of PolyU, assisting in natural language processing and information security-related research. He joined an exchange programme at the [**University of Illinois Urbana-Champaign**](https://illinois.edu/) (**UIUC**) in Academic Year 2021/22 Semester 2.
