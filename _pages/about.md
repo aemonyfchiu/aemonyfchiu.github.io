@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Aemon"
+title: "Aemon's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,3 +30,25 @@ Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian
 Jingyu Li\*, **Aemon Yat Fei Chiu**\*, and Tan Lee, “[An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems](https://ieeexplore.ieee.org/document/10800573/),” in *Proceedings of the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*, pp. 388-392, Beijing, China, Nov. 2024. (*equal contribution)
 
 Kaifa Zhao, Le Yu, Shiyao Zhou, Jing Li, Xiapu Luo, **Yat Fei Aemon Chiu**, and Yutong Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
+
+Contact Information 聯絡方式
+======
+<table>
+    <tr>
+    <th>Email</th>
+    <td><a href="mailto:aemon.yf.chiu@link.cuhk.edu.hk">aemon.yf.chiu@link.cuhk.edu.hk</a></td>
+  </tr>
+  <tr>
+    <th>Phone</th>
+    <td><a href="tel:+85253185381">+852-5318-5381</a></td>
+  </tr>
+
+  <tr>
+    <th>Address</th>
+    <td>Room 329, 3/F, Digital Signal Processing and Speech Technology Laboratory<br>Ho Sin Hang Engineering Building<br>The Chinese University of Hong Kong<br>Sha Tin, New Territories, Hong Kong</td>
+  </tr>
+  <tr>
+    <th>地址</th>
+    <td>香港新界沙田香港中文大學<br>何善衡工程學大樓3樓329室<br>數字訊號處理及語音技術實驗室</td>
+  </tr>
+</table>
