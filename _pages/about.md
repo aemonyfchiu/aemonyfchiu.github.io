@@ -39,7 +39,7 @@ Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian
 
 **Aemon Yat Fei Chiu**, Jingyu Li, Yusheng Tian, Guangyan Zhang, and Tan Lee, “[CUHK-EE Systems for the vTAD Challenge at NCMMSC 2025](https://arxiv.org/abs/2507.23266),” in *Man-Machine Speech Communication*. National Conference on Man-Machine Speech Communication (NCMMSC 2025). Communications in Computer and Information Science, vol. 2662, pp. 290-298, Springer Nature, Singapore, 2026.
 
-Jingyu Li\*, **Aemon Yat Fei Chiu**\*, and Tan Lee, “[An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems](https://ieeexplore.ieee.org/document/10800573/),” in *Proceedings of the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*, pp. 388-392, Beijing, China, Nov. 2024. (*equal contribution)
+Jingyu Li\*, **Aemon Yat Fei Chiu**\*, and Tan Lee, “[An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems](https://ieeexplore.ieee.org/document/10800573/),” in *Proceedings of the 14th International Symposium on Chinese Spoken Language Processing (ISCSLP 2024)*, pp. 388-392, Beijing, China, Nov. 2024. (***equal contribution**)
 
 Kaifa Zhao, Le Yu, Shiyao Zhou, Jing Li, Xiapu Luo, **Yat Fei Aemon Chiu**, and Yutong Liu, “[A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification](https://aclanthology.org/2022.emnlp-main.700/),” in *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*, pp. 10266-10277, Abu Dhabi, United Arab Emirates, Dec. 2022.
 
