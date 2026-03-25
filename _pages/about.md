@@ -35,7 +35,7 @@ Publications 研究成果
 
 **Aemon Yat Fei Chiu**, Yujia Xiao, Qiuqiang Kong, and Tan Lee, “[Voice Timbre Attribute Detection with Compact and Interpretable Training-Free Acoustic Parameters](https://arxiv.org/abs/2603.05091),” submitted to *ISCA Interspeech 2026*, under review, 2026.
 
-Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, and Tan Lee, “[PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://arxiv.org/abs/2510.00485),” submitted to the *43th International Conference on Machine Learning (ICML 2026)*, under review, 2026.
+Yujia Xiao, Liumeng Xue, Lei He, Xinyi Chen, **Aemon Yat Fei Chiu**, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, and Tan Lee, “[PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://arxiv.org/abs/2510.00485),” submitted to the *34th ACM International Conference on Multimedia (ACMMM 2026)*, under review, 2026.
 
 **Aemon Yat Fei Chiu**, Jingyu Li, Yusheng Tian, Guangyan Zhang, and Tan Lee, “[CUHK-EE Systems for the vTAD Challenge at NCMMSC 2025](https://arxiv.org/abs/2507.23266),” in *Man-Machine Speech Communication*. National Conference on Man-Machine Speech Communication (NCMMSC 2025). Communications in Computer and Information Science, vol. 2662, pp. 290-298, Springer Nature, Singapore, 2026.
 
